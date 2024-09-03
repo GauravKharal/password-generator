@@ -52,7 +52,7 @@ function App() {
             Copy
           </button>
         </div>
-        <div className="flex justify-between text-sm gap-x-2">
+        <div className="flex flex-wrap justify-between text-sm gap-2">
           <div className="flex items-center gap-x-1">
             <input
               type="range"
